@@ -5,4 +5,4 @@ The code includes six files:
 3. Keyboard.cpp
 4. Keyboard.h
 5. tester.cpp
-6. tester.h
+6. tester.exe ---- you can run the program
